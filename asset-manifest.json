@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/livelaughlouise/static/css/main.073c9b0a.css",
+    "main.js": "/livelaughlouise/static/js/main.bab30f3d.js",
+    "static/js/496.c4567b26.chunk.js": "/livelaughlouise/static/js/496.c4567b26.chunk.js",
+    "static/media/logo.png": "/livelaughlouise/static/media/logo.67a060aacec1c7e2d71e.png",
+    "index.html": "/livelaughlouise/index.html",
+    "main.073c9b0a.css.map": "/livelaughlouise/static/css/main.073c9b0a.css.map",
+    "main.bab30f3d.js.map": "/livelaughlouise/static/js/main.bab30f3d.js.map",
+    "496.c4567b26.chunk.js.map": "/livelaughlouise/static/js/496.c4567b26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bab30f3d.js"
+  ]
+}
